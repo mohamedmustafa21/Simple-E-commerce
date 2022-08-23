@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.total-price{
+  letter-spacing: 3px;
+}
