@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.f2b4d86d.css",
-    "main.js": "/react-deploy/static/js/main.6f8296a5.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-deploy/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/Refund-pana.png": "/react-deploy/static/media/Refund-pana.4b82854912ed531557e6.png",
-    "static/media/Questions-rafiki.png": "/react-deploy/static/media/Questions-rafiki.0fe50176fadf4241c316.png",
-    "static/media/fontawesome-webfont.eot": "/react-deploy/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-deploy/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-deploy/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-deploy/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/pexels-photo-1042143.webp": "/react-deploy/static/media/pexels-photo-1042143.f4995b71780ea6ffa97d.webp",
-    "static/media/pexels-photo-850360.jpeg": "/react-deploy/static/media/pexels-photo-850360.54ab0e13e38b13beb2f2.jpeg",
-    "static/media/pexels-photo-887751.webp": "/react-deploy/static/media/pexels-photo-887751.a3b2875c0866317cce7f.webp",
-    "static/media/pexels-photo-1156684.webp": "/react-deploy/static/media/pexels-photo-1156684.81e965bb926b670523c1.webp",
-    "static/media/pexels-photo-788946.webp": "/react-deploy/static/media/pexels-photo-788946.438d29081125220169fb.webp",
-    "static/media/pexels-photo-805922.webp": "/react-deploy/static/media/pexels-photo-805922.f9bb41e038afd6293605.webp",
-    "index.html": "/react-deploy/index.html",
-    "main.f2b4d86d.css.map": "/react-deploy/static/css/main.f2b4d86d.css.map",
-    "main.6f8296a5.js.map": "/react-deploy/static/js/main.6f8296a5.js.map"
+    "main.css": "/Simple-E-commerce/static/css/main.2d328d4f.css",
+    "main.js": "/Simple-E-commerce/static/js/main.f56d265f.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Simple-E-commerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/Refund-pana.png": "/Simple-E-commerce/static/media/Refund-pana.4b82854912ed531557e6.png",
+    "static/media/Questions-rafiki.png": "/Simple-E-commerce/static/media/Questions-rafiki.0fe50176fadf4241c316.png",
+    "static/media/fontawesome-webfont.eot": "/Simple-E-commerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Simple-E-commerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Simple-E-commerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Simple-E-commerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/pexels-photo-1042143.webp": "/Simple-E-commerce/static/media/pexels-photo-1042143.f4995b71780ea6ffa97d.webp",
+    "static/media/pexels-photo-850360.jpeg": "/Simple-E-commerce/static/media/pexels-photo-850360.54ab0e13e38b13beb2f2.jpeg",
+    "static/media/pexels-photo-887751.webp": "/Simple-E-commerce/static/media/pexels-photo-887751.a3b2875c0866317cce7f.webp",
+    "static/media/pexels-photo-1156684.webp": "/Simple-E-commerce/static/media/pexels-photo-1156684.81e965bb926b670523c1.webp",
+    "static/media/pexels-photo-788946.webp": "/Simple-E-commerce/static/media/pexels-photo-788946.438d29081125220169fb.webp",
+    "static/media/pexels-photo-805922.webp": "/Simple-E-commerce/static/media/pexels-photo-805922.f9bb41e038afd6293605.webp",
+    "index.html": "/Simple-E-commerce/index.html",
+    "main.2d328d4f.css.map": "/Simple-E-commerce/static/css/main.2d328d4f.css.map",
+    "main.f56d265f.js.map": "/Simple-E-commerce/static/js/main.f56d265f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2b4d86d.css",
-    "static/js/main.6f8296a5.js"
+    "static/css/main.2d328d4f.css",
+    "static/js/main.f56d265f.js"
   ]
 }
